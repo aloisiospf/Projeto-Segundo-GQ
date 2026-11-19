@@ -1,0 +1,6 @@
+
+dados/alunos.txt
+*.exe
+*.o
+resultados/teste.csv
+.vscode/
