@@ -1,5 +1,12 @@
 # Projeto 2ºGQ — Comparação de Estruturas de Dados
 
+
+## Integrantes da equipe
+
+- Aloísio Souto Pinto Filho
+- Pedro Henrique de Araújo Medeiros
+- João Gabriel de Moraes Gonçalves
+
 ## 1. Objetivo
 
 Este projeto tem como objetivo implementar e comparar o desempenho de diferentes estruturas de dados na inserção e busca de estudantes por matrícula, utilizando a linguagem C.
